@@ -12,7 +12,7 @@ In this personal project, I will configure Cloud IoT Core and Cloud Pub/Sub to c
 
 This simulation includes the blue blocks interactions of Google Cloud Platform. The devices will be emulated and I will also use the VM instance to populate Cloud IoT Core device registry as follows.
 
-<img width="1168" alt="Screen Shot 2022-01-11 at 7 55 42 AM" src="https://user-images.githubusercontent.com/61028063/148955775-df946cfe-cde4-4c8d-89be-c4477485aa1d.png">
+<img width="1168" alt="Screen Shot 2022-01-11 at 7 57 48 AM" src="https://user-images.githubusercontent.com/61028063/148956073-ca774f06-a376-44ce-a4be-8bc057e3ba96.png">
 
 
 ### 1) Set up cloud account
