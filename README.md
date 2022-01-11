@@ -19,8 +19,8 @@ This simulation includes the blue blocks interactions of Google Cloud Platform. 
 ### 2) Enable Cloud IoT API and Dataflow API
 ### 3) Set up Cloud Pub/Sun and create topic
 ### 4) Create a location for data storage
-      ### 4.1) Create a storage Bucket
-      ### 4.2) Create a folder in the bucket 
+   ### 4.1) Create a storage Bucket
+   ### 4.2) Create a folder in the bucket 
 ### 5) Start dataflow job
 
 Properties        | Value                                   |
