@@ -33,7 +33,14 @@ Temporary location                     | gs/:iot-data-bucket/tmp              |
 
 6) Run Job!
 
-![Picture1](https://user-images.githubusercontent.com/61028063/148889260-2ef766b6-9117-452e-9722-1eba7ca9acab.jpg width=100)
+![Picture2](https://user-images.githubusercontent.com/61028063/148889903-73e9a68b-1003-4e7d-8cb3-c59eeed0c990.png)
+
+
+7) Prepare the Compute Engine VM
+
+In this project, a pre-provisioned VM instance named iot-device-simulator will let me run instances of a Python script that emulate an MQTT-connected IoT device. Before I emulate the devices, I will also use this VM instance to populate the Cloud IoT Core device registry.
+
+
 
 
 
