@@ -17,13 +17,19 @@ In this simulated project, I will configure Cloud IoT Core and Cloud Pub/Sub to 
    4.2) Create a folder in the bucket 
 5) Start dataflow job
 
-Properties        | Value.                                  |
+Properties        | Value                                   |
 ------------------|-----------------------------------------|
-Job name.         | sensor-data                             |
-------------------|-----------------------------------------|
+Job name          | sensor-data                             |
 Regional endpoint | iowa                                    |
-------------------|-----------------------------------------|
 Dataflow template | Pub/Sub to Text Files on Cloud Storage. |
 ------------------|-----------------------------------------|
+
+Properties                             | Value                                |
+---------------------------------------|--------------------------------------|
+Input Pub/Sub topic                    | projects/my-project-id/topics/iotlab |
+Output file directory in Cloud Storage |  gs://iot-data-bucket/Sensor-Data/   |
+Output filename prefix                 | output-                              |
+Temporary location                     | gs/:iot-data-bucket/tmp              |
+---------------------------------------|--------------------------------------|
 
 
