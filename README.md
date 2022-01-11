@@ -33,7 +33,7 @@ Temporary location                     | gs/:iot-data-bucket/tmp              |
 
 6) Run Job!
 
-![Picture1](https://user-images.githubusercontent.com/61028063/148889260-2ef766b6-9117-452e-9722-1eba7ca9acab.jpg =250x250)
+![Picture1](https://user-images.githubusercontent.com/61028063/148889260-2ef766b6-9117-452e-9722-1eba7ca9acab.jpg width=100)
 
 
 
