@@ -22,7 +22,7 @@ Properties        | Value                                   |
 Job name          | sensor-data                             |
 Regional endpoint | iowa                                    |
 Dataflow template | Pub/Sub to Text Files on Cloud Storage. |
-------------------|-----------------------------------------|
+
 
 Properties                             | Value                                |
 ---------------------------------------|--------------------------------------|
@@ -30,6 +30,10 @@ Input Pub/Sub topic                    | projects/my-project-id/topics/iotlab |
 Output file directory in Cloud Storage |  gs://iot-data-bucket/Sensor-Data/   |
 Output filename prefix                 | output-                              |
 Temporary location                     | gs/:iot-data-bucket/tmp              |
----------------------------------------|--------------------------------------|
+
+6) Run Job!
+
+![Picture1](https://user-images.githubusercontent.com/61028063/148889260-2ef766b6-9117-452e-9722-1eba7ca9acab.jpg)
+
 
 
